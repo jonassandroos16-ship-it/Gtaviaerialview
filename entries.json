@@ -1,0 +1,1112 @@
+﻿{
+  "version": 1,
+  "initial-refresh-interval": 86400,
+  "assets": [
+    {
+      "id": "gta6_vid_1_037107e95f8339418f9077f13cec32d8",
+      "accessibilityLabel": "GTA VI Video Clip 1 (1080p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1080.037107e95f8339418f9077f13cec32d8.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1080.037107e95f8339418f9077f13cec32d8.mp4"
+    },
+    {
+      "id": "gta6_vid_2_097f9159ec943910940a3552bcbe5536",
+      "accessibilityLabel": "GTA VI Video Clip 2 (1080p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1080.097f9159ec943910940a3552bcbe5536.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1080.097f9159ec943910940a3552bcbe5536.mp4"
+    },
+    {
+      "id": "gta6_vid_3_0f1e9840c0d973a860f170a2338b4a1d",
+      "accessibilityLabel": "GTA VI Video Clip 3 (1080p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1080.0f1e9840c0d973a860f170a2338b4a1d.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1080.0f1e9840c0d973a860f170a2338b4a1d.mp4"
+    },
+    {
+      "id": "gta6_vid_4_2aed05f51aa99bfdbc60d6325dc70def",
+      "accessibilityLabel": "GTA VI Video Clip 4 (1080p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1080.2aed05f51aa99bfdbc60d6325dc70def.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1080.2aed05f51aa99bfdbc60d6325dc70def.mp4"
+    },
+    {
+      "id": "gta6_vid_5_50f7777f7d153744db9feb59272ef0ea",
+      "accessibilityLabel": "GTA VI Video Clip 5 (1080p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1080.50f7777f7d153744db9feb59272ef0ea.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1080.50f7777f7d153744db9feb59272ef0ea.mp4"
+    },
+    {
+      "id": "gta6_vid_6_759bb3a9c5ca56b11986415d22a81fca",
+      "accessibilityLabel": "GTA VI Video Clip 6 (1080p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1080.759bb3a9c5ca56b11986415d22a81fca.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1080.759bb3a9c5ca56b11986415d22a81fca.mp4"
+    },
+    {
+      "id": "gta6_vid_7_807047056237fe6f972ba4af785df314",
+      "accessibilityLabel": "GTA VI Video Clip 7 (1080p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1080.807047056237fe6f972ba4af785df314.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1080.807047056237fe6f972ba4af785df314.mp4"
+    },
+    {
+      "id": "gta6_vid_8_8899d1666c9806eef97e71031194cbea",
+      "accessibilityLabel": "GTA VI Video Clip 8 (1080p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1080.8899d1666c9806eef97e71031194cbea.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1080.8899d1666c9806eef97e71031194cbea.mp4"
+    },
+    {
+      "id": "gta6_vid_9_ad02de555c9a641780ea684e352327c4",
+      "accessibilityLabel": "GTA VI Video Clip 9 (1080p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1080.ad02de555c9a641780ea684e352327c4.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1080.ad02de555c9a641780ea684e352327c4.mp4"
+    },
+    {
+      "id": "gta6_vid_10_bda2b32c14424a4bf8c5aaa2f9ef41e5",
+      "accessibilityLabel": "GTA VI Video Clip 10 (1080p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1080.bda2b32c14424a4bf8c5aaa2f9ef41e5.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1080.bda2b32c14424a4bf8c5aaa2f9ef41e5.mp4"
+    },
+    {
+      "id": "gta6_vid_11_ec85c9c2e667647dec6672b486165eba",
+      "accessibilityLabel": "GTA VI Video Clip 11 (1080p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1080.ec85c9c2e667647dec6672b486165eba.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1080.ec85c9c2e667647dec6672b486165eba.mp4"
+    },
+    {
+      "id": "gta6_vid_12_f39029ce36a598ac32578c34b15bc2d2",
+      "accessibilityLabel": "GTA VI Video Clip 12 (1080p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1080.f39029ce36a598ac32578c34b15bc2d2.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1080.f39029ce36a598ac32578c34b15bc2d2.mp4"
+    },
+    {
+      "id": "gta6_vid_13_0338cb3e361a06385dc4b19b2f6974bd",
+      "accessibilityLabel": "GTA VI Video Clip 13 (1280p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1280.0338cb3e361a06385dc4b19b2f6974bd.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1280.0338cb3e361a06385dc4b19b2f6974bd.mp4"
+    },
+    {
+      "id": "gta6_vid_14_17eeb71573952657dc1d0937748347e3",
+      "accessibilityLabel": "GTA VI Video Clip 14 (1280p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1280.17eeb71573952657dc1d0937748347e3.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1280.17eeb71573952657dc1d0937748347e3.mp4"
+    },
+    {
+      "id": "gta6_vid_15_1cf887a2230c81ca79a2e81149dbb22b",
+      "accessibilityLabel": "GTA VI Video Clip 15 (1280p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1280.1cf887a2230c81ca79a2e81149dbb22b.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1280.1cf887a2230c81ca79a2e81149dbb22b.mp4"
+    },
+    {
+      "id": "gta6_vid_16_25e81a383e9e045c5ca8d9538e749dec",
+      "accessibilityLabel": "GTA VI Video Clip 16 (1280p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1280.25e81a383e9e045c5ca8d9538e749dec.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1280.25e81a383e9e045c5ca8d9538e749dec.mp4"
+    },
+    {
+      "id": "gta6_vid_17_27a6745b5d84f19380f6d62b89b8c926",
+      "accessibilityLabel": "GTA VI Video Clip 17 (1280p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1280.27a6745b5d84f19380f6d62b89b8c926.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1280.27a6745b5d84f19380f6d62b89b8c926.mp4"
+    },
+    {
+      "id": "gta6_vid_18_2bbb8c76fea01a28f8b89008e3002ada",
+      "accessibilityLabel": "GTA VI Video Clip 18 (1280p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1280.2bbb8c76fea01a28f8b89008e3002ada.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1280.2bbb8c76fea01a28f8b89008e3002ada.mp4"
+    },
+    {
+      "id": "gta6_vid_19_368866e3063c8c6a96ed3731f5c38ed3",
+      "accessibilityLabel": "GTA VI Video Clip 19 (1280p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1280.368866e3063c8c6a96ed3731f5c38ed3.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1280.368866e3063c8c6a96ed3731f5c38ed3.mp4"
+    },
+    {
+      "id": "gta6_vid_20_3ef03092fb6c24cd4b491e08f53804a1",
+      "accessibilityLabel": "GTA VI Video Clip 20 (1280p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1280.3ef03092fb6c24cd4b491e08f53804a1.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1280.3ef03092fb6c24cd4b491e08f53804a1.mp4"
+    },
+    {
+      "id": "gta6_vid_21_530d241973e8816af8f6b68a1bcd9233",
+      "accessibilityLabel": "GTA VI Video Clip 21 (1280p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1280.530d241973e8816af8f6b68a1bcd9233.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1280.530d241973e8816af8f6b68a1bcd9233.mp4"
+    },
+    {
+      "id": "gta6_vid_22_56ca8d4d2aac534f1b9d6509c50b3922",
+      "accessibilityLabel": "GTA VI Video Clip 22 (1280p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1280.56ca8d4d2aac534f1b9d6509c50b3922.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1280.56ca8d4d2aac534f1b9d6509c50b3922.mp4"
+    },
+    {
+      "id": "gta6_vid_23_5b1c7e6e1fe2551bd706c4ceed7bc120",
+      "accessibilityLabel": "GTA VI Video Clip 23 (1280p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1280.5b1c7e6e1fe2551bd706c4ceed7bc120.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1280.5b1c7e6e1fe2551bd706c4ceed7bc120.mp4"
+    },
+    {
+      "id": "gta6_vid_24_787d6c1ecd65816faf8a69dab4aafb28",
+      "accessibilityLabel": "GTA VI Video Clip 24 (1280p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1280.787d6c1ecd65816faf8a69dab4aafb28.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1280.787d6c1ecd65816faf8a69dab4aafb28.mp4"
+    },
+    {
+      "id": "gta6_vid_25_79133b252a767ee3aed2a074d36d520d",
+      "accessibilityLabel": "GTA VI Video Clip 25 (1280p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1280.79133b252a767ee3aed2a074d36d520d.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1280.79133b252a767ee3aed2a074d36d520d.mp4"
+    },
+    {
+      "id": "gta6_vid_26_7f068fd2d53e425ff7e912883015768f",
+      "accessibilityLabel": "GTA VI Video Clip 26 (1280p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1280.7f068fd2d53e425ff7e912883015768f.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1280.7f068fd2d53e425ff7e912883015768f.mp4"
+    },
+    {
+      "id": "gta6_vid_27_865f5c937a080d80d2da7103f63c51c0",
+      "accessibilityLabel": "GTA VI Video Clip 27 (1280p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1280.865f5c937a080d80d2da7103f63c51c0.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1280.865f5c937a080d80d2da7103f63c51c0.mp4"
+    },
+    {
+      "id": "gta6_vid_28_8be798db5cc4f0ed85e125bf98a7fc48",
+      "accessibilityLabel": "GTA VI Video Clip 28 (1280p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1280.8be798db5cc4f0ed85e125bf98a7fc48.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1280.8be798db5cc4f0ed85e125bf98a7fc48.mp4"
+    },
+    {
+      "id": "gta6_vid_29_8c3f95f60a1515b70968d01431f5f9e7",
+      "accessibilityLabel": "GTA VI Video Clip 29 (1280p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1280.8c3f95f60a1515b70968d01431f5f9e7.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1280.8c3f95f60a1515b70968d01431f5f9e7.mp4"
+    },
+    {
+      "id": "gta6_vid_30_983efe1e49268cb27105b3184dfc1efe",
+      "accessibilityLabel": "GTA VI Video Clip 30 (1280p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1280.983efe1e49268cb27105b3184dfc1efe.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1280.983efe1e49268cb27105b3184dfc1efe.mp4"
+    },
+    {
+      "id": "gta6_vid_31_e6fd2cc2176caaa6ad7fe5011821099c",
+      "accessibilityLabel": "GTA VI Video Clip 31 (1280p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1280.e6fd2cc2176caaa6ad7fe5011821099c.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1280.e6fd2cc2176caaa6ad7fe5011821099c.mp4"
+    },
+    {
+      "id": "gta6_vid_32_ee166131b0625b5e78a094203a8fa2c9",
+      "accessibilityLabel": "GTA VI Video Clip 32 (1280p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1280.ee166131b0625b5e78a094203a8fa2c9.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1280.ee166131b0625b5e78a094203a8fa2c9.mp4"
+    },
+    {
+      "id": "gta6_vid_33_fba2ceb188eb75559762fa565799a4eb",
+      "accessibilityLabel": "GTA VI Video Clip 33 (1280p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1280.fba2ceb188eb75559762fa565799a4eb.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1280.fba2ceb188eb75559762fa565799a4eb.mp4"
+    },
+    {
+      "id": "gta6_vid_34_ff1fe13dfa1ee707152d807208600d37",
+      "accessibilityLabel": "GTA VI Video Clip 34 (1280p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1280.ff1fe13dfa1ee707152d807208600d37.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1280.ff1fe13dfa1ee707152d807208600d37.mp4"
+    },
+    {
+      "id": "gta6_vid_35_03e18156ff30c493b2844d833fec555f",
+      "accessibilityLabel": "GTA VI Video Clip 35 (1440p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1440.03e18156ff30c493b2844d833fec555f.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1440.03e18156ff30c493b2844d833fec555f.mp4"
+    },
+    {
+      "id": "gta6_vid_36_1648869a3dce0ff7a2f2e5da2b184fed",
+      "accessibilityLabel": "GTA VI Video Clip 36 (1440p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1440.1648869a3dce0ff7a2f2e5da2b184fed.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1440.1648869a3dce0ff7a2f2e5da2b184fed.mp4"
+    },
+    {
+      "id": "gta6_vid_37_2bab29d893c43bd3186a147b0e947ef2",
+      "accessibilityLabel": "GTA VI Video Clip 37 (1440p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1440.2bab29d893c43bd3186a147b0e947ef2.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1440.2bab29d893c43bd3186a147b0e947ef2.mp4"
+    },
+    {
+      "id": "gta6_vid_38_33c8cdb69a806920bacad698cb6a0956",
+      "accessibilityLabel": "GTA VI Video Clip 38 (1440p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1440.33c8cdb69a806920bacad698cb6a0956.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1440.33c8cdb69a806920bacad698cb6a0956.mp4"
+    },
+    {
+      "id": "gta6_vid_39_378e0d33b57146479e4685ed7eff426f",
+      "accessibilityLabel": "GTA VI Video Clip 39 (1440p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1440.378e0d33b57146479e4685ed7eff426f.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1440.378e0d33b57146479e4685ed7eff426f.mp4"
+    },
+    {
+      "id": "gta6_vid_40_5d7d87cb7c2170b79da07518d65e1471",
+      "accessibilityLabel": "GTA VI Video Clip 40 (1440p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1440.5d7d87cb7c2170b79da07518d65e1471.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1440.5d7d87cb7c2170b79da07518d65e1471.mp4"
+    },
+    {
+      "id": "gta6_vid_41_836678d1974a3bfc75c184442b090ea9",
+      "accessibilityLabel": "GTA VI Video Clip 41 (1440p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1440.836678d1974a3bfc75c184442b090ea9.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1440.836678d1974a3bfc75c184442b090ea9.mp4"
+    },
+    {
+      "id": "gta6_vid_42_9e7acc0911e46098827dd9f91009adf0",
+      "accessibilityLabel": "GTA VI Video Clip 42 (1440p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1440.9e7acc0911e46098827dd9f91009adf0.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1440.9e7acc0911e46098827dd9f91009adf0.mp4"
+    },
+    {
+      "id": "gta6_vid_43_ad7e57b4503d6c131619a6b9712d5f1e",
+      "accessibilityLabel": "GTA VI Video Clip 43 (1440p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1440.ad7e57b4503d6c131619a6b9712d5f1e.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1440.ad7e57b4503d6c131619a6b9712d5f1e.mp4"
+    },
+    {
+      "id": "gta6_vid_44_bd005bc3b413712bb2f5d6813b9d652d",
+      "accessibilityLabel": "GTA VI Video Clip 44 (1440p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1440.bd005bc3b413712bb2f5d6813b9d652d.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1440.bd005bc3b413712bb2f5d6813b9d652d.mp4"
+    },
+    {
+      "id": "gta6_vid_45_e72b216a10baab8529a7bcf9c3a75c06",
+      "accessibilityLabel": "GTA VI Video Clip 45 (1440p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1440.e72b216a10baab8529a7bcf9c3a75c06.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1440.e72b216a10baab8529a7bcf9c3a75c06.mp4"
+    },
+    {
+      "id": "gta6_vid_46_f41349b12a1241e94fcfb7da8045d6e5",
+      "accessibilityLabel": "GTA VI Video Clip 46 (1440p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1440.f41349b12a1241e94fcfb7da8045d6e5.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1440.f41349b12a1241e94fcfb7da8045d6e5.mp4"
+    },
+    {
+      "id": "gta6_vid_47_281b1e5873c2a8a0d99896cab0a1c458",
+      "accessibilityLabel": "GTA VI Video Clip 47 (1920p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1920.281b1e5873c2a8a0d99896cab0a1c458.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1920.281b1e5873c2a8a0d99896cab0a1c458.mp4"
+    },
+    {
+      "id": "gta6_vid_48_2a8eaeed288c23c90c51ae00d853261d",
+      "accessibilityLabel": "GTA VI Video Clip 48 (1920p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1920.2a8eaeed288c23c90c51ae00d853261d.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1920.2a8eaeed288c23c90c51ae00d853261d.mp4"
+    },
+    {
+      "id": "gta6_vid_49_3839aa27c9dbfa9e9fa1207485f1e3bf",
+      "accessibilityLabel": "GTA VI Video Clip 49 (1920p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1920.3839aa27c9dbfa9e9fa1207485f1e3bf.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1920.3839aa27c9dbfa9e9fa1207485f1e3bf.mp4"
+    },
+    {
+      "id": "gta6_vid_50_3d68f6e504f43f0cb92374767a339900",
+      "accessibilityLabel": "GTA VI Video Clip 50 (1920p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1920.3d68f6e504f43f0cb92374767a339900.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1920.3d68f6e504f43f0cb92374767a339900.mp4"
+    },
+    {
+      "id": "gta6_vid_51_41c30b4dca6d38ad8201c811104718bf",
+      "accessibilityLabel": "GTA VI Video Clip 51 (1920p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1920.41c30b4dca6d38ad8201c811104718bf.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1920.41c30b4dca6d38ad8201c811104718bf.mp4"
+    },
+    {
+      "id": "gta6_vid_52_4591ddc1c7c845d5c5f5a338688c2170",
+      "accessibilityLabel": "GTA VI Video Clip 52 (1920p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1920.4591ddc1c7c845d5c5f5a338688c2170.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1920.4591ddc1c7c845d5c5f5a338688c2170.mp4"
+    },
+    {
+      "id": "gta6_vid_53_4c0ad5d2590c7eeb2769965a0288c02d",
+      "accessibilityLabel": "GTA VI Video Clip 53 (1920p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1920.4c0ad5d2590c7eeb2769965a0288c02d.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1920.4c0ad5d2590c7eeb2769965a0288c02d.mp4"
+    },
+    {
+      "id": "gta6_vid_54_55c7d61e194e5aba56a0b11d6ea203a4",
+      "accessibilityLabel": "GTA VI Video Clip 54 (1920p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1920.55c7d61e194e5aba56a0b11d6ea203a4.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1920.55c7d61e194e5aba56a0b11d6ea203a4.mp4"
+    },
+    {
+      "id": "gta6_vid_55_5b608990b70001f21e721a162f77fa21",
+      "accessibilityLabel": "GTA VI Video Clip 55 (1920p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1920.5b608990b70001f21e721a162f77fa21.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1920.5b608990b70001f21e721a162f77fa21.mp4"
+    },
+    {
+      "id": "gta6_vid_56_610236681688abc375e2db82657a7f96",
+      "accessibilityLabel": "GTA VI Video Clip 56 (1920p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1920.610236681688abc375e2db82657a7f96.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1920.610236681688abc375e2db82657a7f96.mp4"
+    },
+    {
+      "id": "gta6_vid_57_7e1a8228b2d0e26e0da323bacb22b1fc",
+      "accessibilityLabel": "GTA VI Video Clip 57 (1920p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1920.7e1a8228b2d0e26e0da323bacb22b1fc.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1920.7e1a8228b2d0e26e0da323bacb22b1fc.mp4"
+    },
+    {
+      "id": "gta6_vid_58_9aa3d11a22858d6f205d75e7dfa37a32",
+      "accessibilityLabel": "GTA VI Video Clip 58 (1920p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1920.9aa3d11a22858d6f205d75e7dfa37a32.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1920.9aa3d11a22858d6f205d75e7dfa37a32.mp4"
+    },
+    {
+      "id": "gta6_vid_59_9e163e21e3cac960f6850021aace5170",
+      "accessibilityLabel": "GTA VI Video Clip 59 (1920p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1920.9e163e21e3cac960f6850021aace5170.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1920.9e163e21e3cac960f6850021aace5170.mp4"
+    },
+    {
+      "id": "gta6_vid_60_b4486505364aa30049f1b26ffb3dba7c",
+      "accessibilityLabel": "GTA VI Video Clip 60 (1920p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1920.b4486505364aa30049f1b26ffb3dba7c.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1920.b4486505364aa30049f1b26ffb3dba7c.mp4"
+    },
+    {
+      "id": "gta6_vid_61_b708e63c9d10d2b4cae774fec65b936a",
+      "accessibilityLabel": "GTA VI Video Clip 61 (1920p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1920.b708e63c9d10d2b4cae774fec65b936a.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1920.b708e63c9d10d2b4cae774fec65b936a.mp4"
+    },
+    {
+      "id": "gta6_vid_62_baa8f107aa4b18c300175a2fac60b1d4",
+      "accessibilityLabel": "GTA VI Video Clip 62 (1920p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1920.baa8f107aa4b18c300175a2fac60b1d4.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1920.baa8f107aa4b18c300175a2fac60b1d4.mp4"
+    },
+    {
+      "id": "gta6_vid_63_d6843b1fd940e7fa5256f50225dc73a0",
+      "accessibilityLabel": "GTA VI Video Clip 63 (1920p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1920.d6843b1fd940e7fa5256f50225dc73a0.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1920.d6843b1fd940e7fa5256f50225dc73a0.mp4"
+    },
+    {
+      "id": "gta6_vid_64_d9053f504abe0059cc628f0c8cfb1f2c",
+      "accessibilityLabel": "GTA VI Video Clip 64 (1920p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1920.d9053f504abe0059cc628f0c8cfb1f2c.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1920.d9053f504abe0059cc628f0c8cfb1f2c.mp4"
+    },
+    {
+      "id": "gta6_vid_65_d9a08637632c4fc28498f93d9f35ac79",
+      "accessibilityLabel": "GTA VI Video Clip 65 (1920p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1920.d9a08637632c4fc28498f93d9f35ac79.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1920.d9a08637632c4fc28498f93d9f35ac79.mp4"
+    },
+    {
+      "id": "gta6_vid_66_dc5e77003fa53fcf5676cabc6822e0e1",
+      "accessibilityLabel": "GTA VI Video Clip 66 (1920p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1920.dc5e77003fa53fcf5676cabc6822e0e1.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1920.dc5e77003fa53fcf5676cabc6822e0e1.mp4"
+    },
+    {
+      "id": "gta6_vid_67_dd0cf1ebadd9ce644c0ee92c7fe3f874",
+      "accessibilityLabel": "GTA VI Video Clip 67 (1920p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1920.dd0cf1ebadd9ce644c0ee92c7fe3f874.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1920.dd0cf1ebadd9ce644c0ee92c7fe3f874.mp4"
+    },
+    {
+      "id": "gta6_vid_68_ebd78c6bf4734523abf8bb077039011b",
+      "accessibilityLabel": "GTA VI Video Clip 68 (1920p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/1920.ebd78c6bf4734523abf8bb077039011b.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/1920.ebd78c6bf4734523abf8bb077039011b.mp4"
+    },
+    {
+      "id": "gta6_vid_69_10d863da01038298b53922fd5a28cf23",
+      "accessibilityLabel": "GTA VI Video Clip 69 (2160p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/2160.10d863da01038298b53922fd5a28cf23.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/2160.10d863da01038298b53922fd5a28cf23.mp4"
+    },
+    {
+      "id": "gta6_vid_70_1368c3dc991c239ff1fecb39d11a6147",
+      "accessibilityLabel": "GTA VI Video Clip 70 (2160p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/2160.1368c3dc991c239ff1fecb39d11a6147.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/2160.1368c3dc991c239ff1fecb39d11a6147.mp4"
+    },
+    {
+      "id": "gta6_vid_71_153bdb7b5a57491287132bea37bfb303",
+      "accessibilityLabel": "GTA VI Video Clip 71 (2160p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/2160.153bdb7b5a57491287132bea37bfb303.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/2160.153bdb7b5a57491287132bea37bfb303.mp4"
+    },
+    {
+      "id": "gta6_vid_72_1c24b82445f10d3ea60dce496c7c6f82",
+      "accessibilityLabel": "GTA VI Video Clip 72 (2160p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/2160.1c24b82445f10d3ea60dce496c7c6f82.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/2160.1c24b82445f10d3ea60dce496c7c6f82.mp4"
+    },
+    {
+      "id": "gta6_vid_73_2f61f40a8189564837eb2151c354a31a",
+      "accessibilityLabel": "GTA VI Video Clip 73 (2160p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/2160.2f61f40a8189564837eb2151c354a31a.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/2160.2f61f40a8189564837eb2151c354a31a.mp4"
+    },
+    {
+      "id": "gta6_vid_74_41349379931856dc9e8b14eaeb84f89e",
+      "accessibilityLabel": "GTA VI Video Clip 74 (2160p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/2160.41349379931856dc9e8b14eaeb84f89e.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/2160.41349379931856dc9e8b14eaeb84f89e.mp4"
+    },
+    {
+      "id": "gta6_vid_75_416e87de8df51da806d3fd3076ad6e53",
+      "accessibilityLabel": "GTA VI Video Clip 75 (2160p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/2160.416e87de8df51da806d3fd3076ad6e53.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/2160.416e87de8df51da806d3fd3076ad6e53.mp4"
+    },
+    {
+      "id": "gta6_vid_76_5a0012f6ebd81da2b1e21add31554e36",
+      "accessibilityLabel": "GTA VI Video Clip 76 (2160p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/2160.5a0012f6ebd81da2b1e21add31554e36.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/2160.5a0012f6ebd81da2b1e21add31554e36.mp4"
+    },
+    {
+      "id": "gta6_vid_77_5ea019fca6bf0a4712cbd774dde4fb71",
+      "accessibilityLabel": "GTA VI Video Clip 77 (2160p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/2160.5ea019fca6bf0a4712cbd774dde4fb71.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/2160.5ea019fca6bf0a4712cbd774dde4fb71.mp4"
+    },
+    {
+      "id": "gta6_vid_78_5f9418df10a45af7941b56355101edc6",
+      "accessibilityLabel": "GTA VI Video Clip 78 (2160p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/2160.5f9418df10a45af7941b56355101edc6.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/2160.5f9418df10a45af7941b56355101edc6.mp4"
+    },
+    {
+      "id": "gta6_vid_79_6184ce05e73290118fa0283a809339eb",
+      "accessibilityLabel": "GTA VI Video Clip 79 (2160p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/2160.6184ce05e73290118fa0283a809339eb.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/2160.6184ce05e73290118fa0283a809339eb.mp4"
+    },
+    {
+      "id": "gta6_vid_80_68ec50634223a3a607bea9a4138defbc",
+      "accessibilityLabel": "GTA VI Video Clip 80 (2160p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/2160.68ec50634223a3a607bea9a4138defbc.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/2160.68ec50634223a3a607bea9a4138defbc.mp4"
+    },
+    {
+      "id": "gta6_vid_81_806b75227be95418f7797b33d88a8ee0",
+      "accessibilityLabel": "GTA VI Video Clip 81 (2160p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/2160.806b75227be95418f7797b33d88a8ee0.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/2160.806b75227be95418f7797b33d88a8ee0.mp4"
+    },
+    {
+      "id": "gta6_vid_82_8fad8ee626b41001e5ed2f63aff978da",
+      "accessibilityLabel": "GTA VI Video Clip 82 (2160p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/2160.8fad8ee626b41001e5ed2f63aff978da.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/2160.8fad8ee626b41001e5ed2f63aff978da.mp4"
+    },
+    {
+      "id": "gta6_vid_83_9bf4e8d6192a59c7ff13a7362dfae577",
+      "accessibilityLabel": "GTA VI Video Clip 83 (2160p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/2160.9bf4e8d6192a59c7ff13a7362dfae577.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/2160.9bf4e8d6192a59c7ff13a7362dfae577.mp4"
+    },
+    {
+      "id": "gta6_vid_84_9c8aad1e2db26287130acedcb5779370",
+      "accessibilityLabel": "GTA VI Video Clip 84 (2160p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/2160.9c8aad1e2db26287130acedcb5779370.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/2160.9c8aad1e2db26287130acedcb5779370.mp4"
+    },
+    {
+      "id": "gta6_vid_85_b3f19aad8316d2d7e11434f20790cd04",
+      "accessibilityLabel": "GTA VI Video Clip 85 (2160p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/2160.b3f19aad8316d2d7e11434f20790cd04.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/2160.b3f19aad8316d2d7e11434f20790cd04.mp4"
+    },
+    {
+      "id": "gta6_vid_86_be507afea7070689783389f48d3093f9",
+      "accessibilityLabel": "GTA VI Video Clip 86 (2160p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/2160.be507afea7070689783389f48d3093f9.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/2160.be507afea7070689783389f48d3093f9.mp4"
+    },
+    {
+      "id": "gta6_vid_87_cd021eaf6cdf83403bdd6789f794dbeb",
+      "accessibilityLabel": "GTA VI Video Clip 87 (2160p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/2160.cd021eaf6cdf83403bdd6789f794dbeb.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/2160.cd021eaf6cdf83403bdd6789f794dbeb.mp4"
+    },
+    {
+      "id": "gta6_vid_88_cdb83cadadbcc9d9e7b776b1faa8272f",
+      "accessibilityLabel": "GTA VI Video Clip 88 (2160p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/2160.cdb83cadadbcc9d9e7b776b1faa8272f.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/2160.cdb83cadadbcc9d9e7b776b1faa8272f.mp4"
+    },
+    {
+      "id": "gta6_vid_89_dca7408d5b51a70c843d33ceb8a197ef",
+      "accessibilityLabel": "GTA VI Video Clip 89 (2160p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/2160.dca7408d5b51a70c843d33ceb8a197ef.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/2160.dca7408d5b51a70c843d33ceb8a197ef.mp4"
+    },
+    {
+      "id": "gta6_vid_90_f23d73efdae37fe0f1c6afe92c48f268",
+      "accessibilityLabel": "GTA VI Video Clip 90 (2160p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/2160.f23d73efdae37fe0f1c6afe92c48f268.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/2160.f23d73efdae37fe0f1c6afe92c48f268.mp4"
+    },
+    {
+      "id": "gta6_vid_91_03e9dd51e60de533266f367e19f87f22",
+      "accessibilityLabel": "GTA VI Video Clip 91 (400p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/400.03e9dd51e60de533266f367e19f87f22.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/400.03e9dd51e60de533266f367e19f87f22.mp4"
+    },
+    {
+      "id": "gta6_vid_92_0841e158ee05db298cf137a5ec83c914",
+      "accessibilityLabel": "GTA VI Video Clip 92 (400p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/400.0841e158ee05db298cf137a5ec83c914.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/400.0841e158ee05db298cf137a5ec83c914.mp4"
+    },
+    {
+      "id": "gta6_vid_93_29933e847949ab36589c39aec89f371a",
+      "accessibilityLabel": "GTA VI Video Clip 93 (400p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/400.29933e847949ab36589c39aec89f371a.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/400.29933e847949ab36589c39aec89f371a.mp4"
+    },
+    {
+      "id": "gta6_vid_94_2b30475d4c99c23b1ab15d6c0bf90700",
+      "accessibilityLabel": "GTA VI Video Clip 94 (400p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/400.2b30475d4c99c23b1ab15d6c0bf90700.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/400.2b30475d4c99c23b1ab15d6c0bf90700.mp4"
+    },
+    {
+      "id": "gta6_vid_95_32a80119661e33bb705832551a344e43",
+      "accessibilityLabel": "GTA VI Video Clip 95 (400p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/400.32a80119661e33bb705832551a344e43.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/400.32a80119661e33bb705832551a344e43.mp4"
+    },
+    {
+      "id": "gta6_vid_96_33cc57b28f2ce2c2e9e60e5f70a5714f",
+      "accessibilityLabel": "GTA VI Video Clip 96 (400p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/400.33cc57b28f2ce2c2e9e60e5f70a5714f.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/400.33cc57b28f2ce2c2e9e60e5f70a5714f.mp4"
+    },
+    {
+      "id": "gta6_vid_97_33f717e318555e8deb910ec965246c16",
+      "accessibilityLabel": "GTA VI Video Clip 97 (400p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/400.33f717e318555e8deb910ec965246c16.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/400.33f717e318555e8deb910ec965246c16.mp4"
+    },
+    {
+      "id": "gta6_vid_98_3c7a0a17dcc368e31c23f76e1959f7bd",
+      "accessibilityLabel": "GTA VI Video Clip 98 (400p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/400.3c7a0a17dcc368e31c23f76e1959f7bd.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/400.3c7a0a17dcc368e31c23f76e1959f7bd.mp4"
+    },
+    {
+      "id": "gta6_vid_99_49244a5606b8cf9e4e2a59bc76512416",
+      "accessibilityLabel": "GTA VI Video Clip 99 (400p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/400.49244a5606b8cf9e4e2a59bc76512416.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/400.49244a5606b8cf9e4e2a59bc76512416.mp4"
+    },
+    {
+      "id": "gta6_vid_100_568c6221d228807ffd4a8bf17b1ce7d1",
+      "accessibilityLabel": "GTA VI Video Clip 100 (400p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/400.568c6221d228807ffd4a8bf17b1ce7d1.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/400.568c6221d228807ffd4a8bf17b1ce7d1.mp4"
+    },
+    {
+      "id": "gta6_vid_101_726aa33d2a8db7fe52e671233617a426",
+      "accessibilityLabel": "GTA VI Video Clip 101 (400p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/400.726aa33d2a8db7fe52e671233617a426.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/400.726aa33d2a8db7fe52e671233617a426.mp4"
+    },
+    {
+      "id": "gta6_vid_102_733916d0577e8e0e159f32a7f8c95b4e",
+      "accessibilityLabel": "GTA VI Video Clip 102 (400p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/400.733916d0577e8e0e159f32a7f8c95b4e.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/400.733916d0577e8e0e159f32a7f8c95b4e.mp4"
+    },
+    {
+      "id": "gta6_vid_103_7b0e23c6808fd4dec7912a3f935372c7",
+      "accessibilityLabel": "GTA VI Video Clip 103 (400p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/400.7b0e23c6808fd4dec7912a3f935372c7.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/400.7b0e23c6808fd4dec7912a3f935372c7.mp4"
+    },
+    {
+      "id": "gta6_vid_104_999911f706e8389210051135818243c6",
+      "accessibilityLabel": "GTA VI Video Clip 104 (400p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/400.999911f706e8389210051135818243c6.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/400.999911f706e8389210051135818243c6.mp4"
+    },
+    {
+      "id": "gta6_vid_105_a21caaad26715b44011fad63b666008c",
+      "accessibilityLabel": "GTA VI Video Clip 105 (400p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/400.a21caaad26715b44011fad63b666008c.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/400.a21caaad26715b44011fad63b666008c.mp4"
+    },
+    {
+      "id": "gta6_vid_106_a26bf5b46bfeba268d0ca8f37da62f46",
+      "accessibilityLabel": "GTA VI Video Clip 106 (400p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/400.a26bf5b46bfeba268d0ca8f37da62f46.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/400.a26bf5b46bfeba268d0ca8f37da62f46.mp4"
+    },
+    {
+      "id": "gta6_vid_107_af3baac91d09aec6a5aaf448c68e3d8a",
+      "accessibilityLabel": "GTA VI Video Clip 107 (400p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/400.af3baac91d09aec6a5aaf448c68e3d8a.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/400.af3baac91d09aec6a5aaf448c68e3d8a.mp4"
+    },
+    {
+      "id": "gta6_vid_108_b65eada6b74b2c9b1eb1eeed62cd78bf",
+      "accessibilityLabel": "GTA VI Video Clip 108 (400p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/400.b65eada6b74b2c9b1eb1eeed62cd78bf.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/400.b65eada6b74b2c9b1eb1eeed62cd78bf.mp4"
+    },
+    {
+      "id": "gta6_vid_109_baebf3bd5b657eed611ce28e15782c23",
+      "accessibilityLabel": "GTA VI Video Clip 109 (400p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/400.baebf3bd5b657eed611ce28e15782c23.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/400.baebf3bd5b657eed611ce28e15782c23.mp4"
+    },
+    {
+      "id": "gta6_vid_110_c92b3131bff59fd64e21907593904a48",
+      "accessibilityLabel": "GTA VI Video Clip 110 (400p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/400.c92b3131bff59fd64e21907593904a48.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/400.c92b3131bff59fd64e21907593904a48.mp4"
+    },
+    {
+      "id": "gta6_vid_111_ca1b5a546093c58a4f110eb21abd288e",
+      "accessibilityLabel": "GTA VI Video Clip 111 (400p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/400.ca1b5a546093c58a4f110eb21abd288e.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/400.ca1b5a546093c58a4f110eb21abd288e.mp4"
+    },
+    {
+      "id": "gta6_vid_112_fc96432ab565d3e55c60d96ee2baacc2",
+      "accessibilityLabel": "GTA VI Video Clip 112 (400p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/400.fc96432ab565d3e55c60d96ee2baacc2.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/400.fc96432ab565d3e55c60d96ee2baacc2.mp4"
+    },
+    {
+      "id": "gta6_vid_113_0534371efe7144d190cc6c1aa6193c43",
+      "accessibilityLabel": "GTA VI Video Clip 113 (450p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/450.0534371efe7144d190cc6c1aa6193c43.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/450.0534371efe7144d190cc6c1aa6193c43.mp4"
+    },
+    {
+      "id": "gta6_vid_114_1323229a12b56cf6fc10610d4f852ad6",
+      "accessibilityLabel": "GTA VI Video Clip 114 (450p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/450.1323229a12b56cf6fc10610d4f852ad6.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/450.1323229a12b56cf6fc10610d4f852ad6.mp4"
+    },
+    {
+      "id": "gta6_vid_115_1ea5eb458a899a35da2ccbbaed5306c4",
+      "accessibilityLabel": "GTA VI Video Clip 115 (450p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/450.1ea5eb458a899a35da2ccbbaed5306c4.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/450.1ea5eb458a899a35da2ccbbaed5306c4.mp4"
+    },
+    {
+      "id": "gta6_vid_116_2457b2faa89155c6d9c2ae7bcee40252",
+      "accessibilityLabel": "GTA VI Video Clip 116 (450p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/450.2457b2faa89155c6d9c2ae7bcee40252.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/450.2457b2faa89155c6d9c2ae7bcee40252.mp4"
+    },
+    {
+      "id": "gta6_vid_117_54c2233f20e16e6b30b9f31e4e7426cc",
+      "accessibilityLabel": "GTA VI Video Clip 117 (450p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/450.54c2233f20e16e6b30b9f31e4e7426cc.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/450.54c2233f20e16e6b30b9f31e4e7426cc.mp4"
+    },
+    {
+      "id": "gta6_vid_118_63916deeb4a14a0910a8710a0efa6c6f",
+      "accessibilityLabel": "GTA VI Video Clip 118 (450p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/450.63916deeb4a14a0910a8710a0efa6c6f.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/450.63916deeb4a14a0910a8710a0efa6c6f.mp4"
+    },
+    {
+      "id": "gta6_vid_119_79a5c696ebda1d61aba687507863e7c5",
+      "accessibilityLabel": "GTA VI Video Clip 119 (450p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/450.79a5c696ebda1d61aba687507863e7c5.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/450.79a5c696ebda1d61aba687507863e7c5.mp4"
+    },
+    {
+      "id": "gta6_vid_120_9986064801cbe4486889f3d6fea95821",
+      "accessibilityLabel": "GTA VI Video Clip 120 (450p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/450.9986064801cbe4486889f3d6fea95821.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/450.9986064801cbe4486889f3d6fea95821.mp4"
+    },
+    {
+      "id": "gta6_vid_121_a28ee473875a7943b198c7f1ab8f0d38",
+      "accessibilityLabel": "GTA VI Video Clip 121 (450p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/450.a28ee473875a7943b198c7f1ab8f0d38.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/450.a28ee473875a7943b198c7f1ab8f0d38.mp4"
+    },
+    {
+      "id": "gta6_vid_122_b92111b4650071a77b77fe7a713ab476",
+      "accessibilityLabel": "GTA VI Video Clip 122 (450p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/450.b92111b4650071a77b77fe7a713ab476.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/450.b92111b4650071a77b77fe7a713ab476.mp4"
+    },
+    {
+      "id": "gta6_vid_123_bc49abb475f778d97bf8a003942b1301",
+      "accessibilityLabel": "GTA VI Video Clip 123 (450p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/450.bc49abb475f778d97bf8a003942b1301.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/450.bc49abb475f778d97bf8a003942b1301.mp4"
+    },
+    {
+      "id": "gta6_vid_124_fc98b0b1f593403a46f6ea53c1f018e8",
+      "accessibilityLabel": "GTA VI Video Clip 124 (450p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/450.fc98b0b1f593403a46f6ea53c1f018e8.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/450.fc98b0b1f593403a46f6ea53c1f018e8.mp4"
+    },
+    {
+      "id": "gta6_vid_125_09470b2dc7eb4cc10cfa8b6c6ceec8fd",
+      "accessibilityLabel": "GTA VI Video Clip 125 (768p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/768.09470b2dc7eb4cc10cfa8b6c6ceec8fd.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/768.09470b2dc7eb4cc10cfa8b6c6ceec8fd.mp4"
+    },
+    {
+      "id": "gta6_vid_126_11d06cf5cdc0ab989c76136230dde4e3",
+      "accessibilityLabel": "GTA VI Video Clip 126 (768p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/768.11d06cf5cdc0ab989c76136230dde4e3.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/768.11d06cf5cdc0ab989c76136230dde4e3.mp4"
+    },
+    {
+      "id": "gta6_vid_127_2b933b78a1db4957e57267dc2ac8f079",
+      "accessibilityLabel": "GTA VI Video Clip 127 (768p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/768.2b933b78a1db4957e57267dc2ac8f079.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/768.2b933b78a1db4957e57267dc2ac8f079.mp4"
+    },
+    {
+      "id": "gta6_vid_128_310eb62dcc4e6b65a7cbb11c2ba3264d",
+      "accessibilityLabel": "GTA VI Video Clip 128 (768p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/768.310eb62dcc4e6b65a7cbb11c2ba3264d.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/768.310eb62dcc4e6b65a7cbb11c2ba3264d.mp4"
+    },
+    {
+      "id": "gta6_vid_129_36a9910e2193d9af31c29ccb6022dc0b",
+      "accessibilityLabel": "GTA VI Video Clip 129 (768p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/768.36a9910e2193d9af31c29ccb6022dc0b.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/768.36a9910e2193d9af31c29ccb6022dc0b.mp4"
+    },
+    {
+      "id": "gta6_vid_130_3e6e418a9944f0be03837045d65d3c90",
+      "accessibilityLabel": "GTA VI Video Clip 130 (768p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/768.3e6e418a9944f0be03837045d65d3c90.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/768.3e6e418a9944f0be03837045d65d3c90.mp4"
+    },
+    {
+      "id": "gta6_vid_131_4bfd7e93e9a17f4c536db4b3dea4afd3",
+      "accessibilityLabel": "GTA VI Video Clip 131 (768p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/768.4bfd7e93e9a17f4c536db4b3dea4afd3.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/768.4bfd7e93e9a17f4c536db4b3dea4afd3.mp4"
+    },
+    {
+      "id": "gta6_vid_132_514ff71785731864fbcba5a9c94dc145",
+      "accessibilityLabel": "GTA VI Video Clip 132 (768p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/768.514ff71785731864fbcba5a9c94dc145.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/768.514ff71785731864fbcba5a9c94dc145.mp4"
+    },
+    {
+      "id": "gta6_vid_133_54d95d102368a19a32d3797ea36c0217",
+      "accessibilityLabel": "GTA VI Video Clip 133 (768p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/768.54d95d102368a19a32d3797ea36c0217.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/768.54d95d102368a19a32d3797ea36c0217.mp4"
+    },
+    {
+      "id": "gta6_vid_134_6d7ff4d5dfd0e6517bab2f3963ff05e8",
+      "accessibilityLabel": "GTA VI Video Clip 134 (768p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/768.6d7ff4d5dfd0e6517bab2f3963ff05e8.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/768.6d7ff4d5dfd0e6517bab2f3963ff05e8.mp4"
+    },
+    {
+      "id": "gta6_vid_135_74ee55e5b5be24a062fc7ba6e44f409e",
+      "accessibilityLabel": "GTA VI Video Clip 135 (768p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/768.74ee55e5b5be24a062fc7ba6e44f409e.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/768.74ee55e5b5be24a062fc7ba6e44f409e.mp4"
+    },
+    {
+      "id": "gta6_vid_136_772d014bc5988013f8625067f5fa8045",
+      "accessibilityLabel": "GTA VI Video Clip 136 (768p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/768.772d014bc5988013f8625067f5fa8045.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/768.772d014bc5988013f8625067f5fa8045.mp4"
+    },
+    {
+      "id": "gta6_vid_137_7cca7724d780c61e5a2dbb7d2a0d0bda",
+      "accessibilityLabel": "GTA VI Video Clip 137 (768p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/768.7cca7724d780c61e5a2dbb7d2a0d0bda.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/768.7cca7724d780c61e5a2dbb7d2a0d0bda.mp4"
+    },
+    {
+      "id": "gta6_vid_138_800961602bc11f61bef23268392e514e",
+      "accessibilityLabel": "GTA VI Video Clip 138 (768p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/768.800961602bc11f61bef23268392e514e.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/768.800961602bc11f61bef23268392e514e.mp4"
+    },
+    {
+      "id": "gta6_vid_139_8fab23ce8e9367c3dd6f5fa115c146c7",
+      "accessibilityLabel": "GTA VI Video Clip 139 (768p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/768.8fab23ce8e9367c3dd6f5fa115c146c7.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/768.8fab23ce8e9367c3dd6f5fa115c146c7.mp4"
+    },
+    {
+      "id": "gta6_vid_140_90282fd81bc6d4f0d52c7a7809d4c094",
+      "accessibilityLabel": "GTA VI Video Clip 140 (768p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/768.90282fd81bc6d4f0d52c7a7809d4c094.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/768.90282fd81bc6d4f0d52c7a7809d4c094.mp4"
+    },
+    {
+      "id": "gta6_vid_141_9110e22189d9f3e2d495ed879ad70edd",
+      "accessibilityLabel": "GTA VI Video Clip 141 (768p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/768.9110e22189d9f3e2d495ed879ad70edd.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/768.9110e22189d9f3e2d495ed879ad70edd.mp4"
+    },
+    {
+      "id": "gta6_vid_142_969107114427df0a9e9cc03826ddf6ff",
+      "accessibilityLabel": "GTA VI Video Clip 142 (768p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/768.969107114427df0a9e9cc03826ddf6ff.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/768.969107114427df0a9e9cc03826ddf6ff.mp4"
+    },
+    {
+      "id": "gta6_vid_143_a91136f940cca98728778ae405315a63",
+      "accessibilityLabel": "GTA VI Video Clip 143 (768p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/768.a91136f940cca98728778ae405315a63.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/768.a91136f940cca98728778ae405315a63.mp4"
+    },
+    {
+      "id": "gta6_vid_144_b4a04b7c37ff3f1513196b885d59fe0f",
+      "accessibilityLabel": "GTA VI Video Clip 144 (768p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/768.b4a04b7c37ff3f1513196b885d59fe0f.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/768.b4a04b7c37ff3f1513196b885d59fe0f.mp4"
+    },
+    {
+      "id": "gta6_vid_145_b51dd067022f6a032d76d8726d7eebb3",
+      "accessibilityLabel": "GTA VI Video Clip 145 (768p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/768.b51dd067022f6a032d76d8726d7eebb3.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/768.b51dd067022f6a032d76d8726d7eebb3.mp4"
+    },
+    {
+      "id": "gta6_vid_146_b564a63646b07e105f0d7367fe95e641",
+      "accessibilityLabel": "GTA VI Video Clip 146 (768p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/768.b564a63646b07e105f0d7367fe95e641.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/768.b564a63646b07e105f0d7367fe95e641.mp4"
+    },
+    {
+      "id": "gta6_vid_147_b87c0f8bea0eb5fd79c6035c7c15924c",
+      "accessibilityLabel": "GTA VI Video Clip 147 (768p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/768.b87c0f8bea0eb5fd79c6035c7c15924c.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/768.b87c0f8bea0eb5fd79c6035c7c15924c.mp4"
+    },
+    {
+      "id": "gta6_vid_148_c2ec9ef9fa9457a29f1e542a021e9a41",
+      "accessibilityLabel": "GTA VI Video Clip 148 (768p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/768.c2ec9ef9fa9457a29f1e542a021e9a41.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/768.c2ec9ef9fa9457a29f1e542a021e9a41.mp4"
+    },
+    {
+      "id": "gta6_vid_149_c43fc81a6c475599971070ba2cffb6e0",
+      "accessibilityLabel": "GTA VI Video Clip 149 (768p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/768.c43fc81a6c475599971070ba2cffb6e0.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/768.c43fc81a6c475599971070ba2cffb6e0.mp4"
+    },
+    {
+      "id": "gta6_vid_150_db0cb13459e1c3adb36fc44817186915",
+      "accessibilityLabel": "GTA VI Video Clip 150 (768p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/768.db0cb13459e1c3adb36fc44817186915.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/768.db0cb13459e1c3adb36fc44817186915.mp4"
+    },
+    {
+      "id": "gta6_vid_151_db8d79e401230d4c2717ad2e0b5b5185",
+      "accessibilityLabel": "GTA VI Video Clip 151 (768p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/768.db8d79e401230d4c2717ad2e0b5b5185.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/768.db8d79e401230d4c2717ad2e0b5b5185.mp4"
+    },
+    {
+      "id": "gta6_vid_152_dbd531c9c2b54d4573d62606f56eccfc",
+      "accessibilityLabel": "GTA VI Video Clip 152 (768p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/768.dbd531c9c2b54d4573d62606f56eccfc.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/768.dbd531c9c2b54d4573d62606f56eccfc.mp4"
+    },
+    {
+      "id": "gta6_vid_153_e2628758da1c6073e9777879221a5552",
+      "accessibilityLabel": "GTA VI Video Clip 153 (768p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/768.e2628758da1c6073e9777879221a5552.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/768.e2628758da1c6073e9777879221a5552.mp4"
+    },
+    {
+      "id": "gta6_vid_154_e280fec47f131c1f96e2c6f85d9b5957",
+      "accessibilityLabel": "GTA VI Video Clip 154 (768p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/768.e280fec47f131c1f96e2c6f85d9b5957.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/768.e280fec47f131c1f96e2c6f85d9b5957.mp4"
+    },
+    {
+      "id": "gta6_vid_155_e77009096a2cd630e1d1050899ff439c",
+      "accessibilityLabel": "GTA VI Video Clip 155 (768p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/768.e77009096a2cd630e1d1050899ff439c.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/768.e77009096a2cd630e1d1050899ff439c.mp4"
+    },
+    {
+      "id": "gta6_vid_156_ecb3722dde292fc37686ed0a268259cd",
+      "accessibilityLabel": "GTA VI Video Clip 156 (768p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/768.ecb3722dde292fc37686ed0a268259cd.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/768.ecb3722dde292fc37686ed0a268259cd.mp4"
+    },
+    {
+      "id": "gta6_vid_157_f3d38bf10156747d68bea7d488e09423",
+      "accessibilityLabel": "GTA VI Video Clip 157 (768p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/768.f3d38bf10156747d68bea7d488e09423.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/768.f3d38bf10156747d68bea7d488e09423.mp4"
+    },
+    {
+      "id": "gta6_vid_158_fd8d85009dc2c976607aa9ecb2c6a22c",
+      "accessibilityLabel": "GTA VI Video Clip 158 (768p)",
+      "type": "video",
+      "url-1080-H264": "https://www.rockstargames.com/VI/_next/static/media/768.fd8d85009dc2c976607aa9ecb2c6a22c.mp4",
+      "url-4K-SDR": "https://www.rockstargames.com/VI/_next/static/media/768.fd8d85009dc2c976607aa9ecb2c6a22c.mp4"
+    }
+  ]
+}
